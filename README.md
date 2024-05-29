@@ -1,5 +1,3 @@
-Here's a revised version of the README.md for your Weather API, formatted to be visually appealing on GitHub and including examples on how to access the API using `curl`.
-
 ```markdown
 # Weather API Documentation
 
@@ -81,5 +79,3 @@ curl -X GET "http://localhost:8080/api/metrics/stats?sensorId=1&metric=temperatu
 
 This README provides a good foundation, detailing essential information users need to effectively utilize the API. You can add more sections as necessary, such as 'Configuration', 'Advanced Usage', or 'Contributing'.
 ```
-
-This version of the README includes all necessary details, structured markdown formatting, and additional examples of how to use `curl` to access the API, which will help users understand how to interact with your API quickly.
