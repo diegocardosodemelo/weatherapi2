@@ -1,0 +1,3 @@
+com\example\weatherapi\WeatherapiApplicationTests.class
+com\example\weatherapi\model\MetricTest.class
+com\example\weatherapi\controller\MetricControllerTest.class

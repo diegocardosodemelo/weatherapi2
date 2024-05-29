@@ -1,0 +1,8 @@
+com\example\weatherapi\model\Metric.class
+com\example\weatherapi\repository\SensorRepository.class
+com\example\weatherapi\service\MetricService.class
+com\example\weatherapi\model\dto\MetricStats.class
+com\example\weatherapi\WeatherapiApplication.class
+com\example\weatherapi\repository\MetricRepository.class
+com\example\weatherapi\controller\MetricController.class
+com\example\weatherapi\model\Sensor.class
